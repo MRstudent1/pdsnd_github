@@ -4,6 +4,11 @@ import numpy as np
 
 <<<<<<< HEAD
 # Marco's Git Project
+<<<<<<< HEAD
+=======
+# refactoring code
+print("Welcome to Marco's project")
+>>>>>>> refactoring
 >>>>>>> refactoring
 
 CITY_DATA = { 'chicago': 'chicago.csv',
