@@ -6,7 +6,7 @@ import numpy as np
 # Marco's Git Project
 =======
 # refactoring code
-# no need to change the code
+print("Welcome to Marco's project")
 >>>>>>> refactoring
 
 CITY_DATA = { 'chicago': 'chicago.csv',
