@@ -4,9 +4,6 @@ import numpy as np
 
 <<<<<<< HEAD
 # Marco's Git Project
-=======
-# refactoring code
-# no need to change the code
 >>>>>>> refactoring
 
 CITY_DATA = { 'chicago': 'chicago.csv',

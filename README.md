@@ -7,7 +7,7 @@
 Marco's Git Project
 
 ### Description
-Assigment project
+Nanodegree Assigment project
 
 ### Files used
 Bikeshare and CSV file
